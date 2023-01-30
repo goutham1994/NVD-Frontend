@@ -1,0 +1,32 @@
+.app-logo{
+ margin: 0px 0px 40px 15px;
+}
+.login-container Button{
+ display: flex;
+ margin-left: 220px;
+ background-color: rgb(241, 181, 0);
+ align-content: center;
+ color: grey;
+}
+.login-container Button:hover{
+background-color: grey;
+color:rgb(241, 181, 0);
+
+}
+.login-container a{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color:rgb(241, 181, 0);
+}
+.login-container a:hover{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color:rgb(241, 181, 0);
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
